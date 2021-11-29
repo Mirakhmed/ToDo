@@ -6,9 +6,9 @@ export const AboutPage: React.FC = () => {
 
     return (
         <>
-            <h2>MyFxtm</h2>
+            <h2>ToDo App</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At delectus deleniti dicta dolore eaque error eveniet magnam odio, quae quasi.</p>
-            <button className="btn" onClick={() => history('/')}>Back to tasks</button>
+            <button className="btn" onClick={() => history('/')}>Back to the tasks</button>
         </>
     );
 }
